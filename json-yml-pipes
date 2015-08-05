@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for json_file in "$@"; do
+	json-yml-pipe.py $json_file &
+done
