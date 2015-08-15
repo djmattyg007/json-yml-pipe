@@ -14,3 +14,5 @@ I built this tool to make it easier to write Ansible playbooks in JSON,
 because I have a strong dislike for markup languages that are dependent upon
 whitespace for delimiting blocks. I'm sure you'll find other uses for it
 though!
+
+This program is released into the public domain without any warranty.
